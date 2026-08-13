@@ -1,0 +1,11 @@
+*.woff2 binary
+*.tsx linguist-detectable
+*.min.js linguist-generated
+*.ts linguist-detectable
+
+*.bat text eol=crlf
+docs/** linguist-vendored
+* text=auto
+
+vendor/* linguist-vendored
+docs/* linguist-vendored
